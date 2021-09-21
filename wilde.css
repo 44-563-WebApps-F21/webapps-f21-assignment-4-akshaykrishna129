@@ -16,3 +16,9 @@
 .CECILY{
     color:violet;
 }
+.table,th,td{
+    border:1px solid red;color:rgb(67, 67,179);text-align: center;padding:01em;margin: 0em;
+
+}
+tr:nth-child(even){background-color: #b38d8d;}
+.name:hover{text-shadow: 1px 1px red;filter:blur(1px);}
