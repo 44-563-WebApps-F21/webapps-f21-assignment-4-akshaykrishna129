@@ -22,3 +22,27 @@
 }
 tr:nth-child(even){background-color: #b38d8d;}
 .name:hover{text-shadow: 1px 1px red;filter:blur(1px);border-style: groove;}
+
+ul {
+    list-style-type:circle;
+    margin :0;
+    padding : 0;
+    overflow:hidden;
+    background-color :red;
+}
+
+li {
+    float : left;
+}
+
+li a {
+    display :flex;
+    color:seagreen;
+    text-align :center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:springgreen;
+}
