@@ -21,4 +21,4 @@
 
 }
 tr:nth-child(even){background-color: #b38d8d;}
-.name:hover{text-shadow: 1px 1px red;filter:blur(1px);}
+.name:hover{text-shadow: 1px 1px red;filter:blur(1px);border-style: groove;}
